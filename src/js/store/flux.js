@@ -10,6 +10,7 @@ const getState = ({ getStore, getActions, setStore }) => {
 		actions: {
 			getPersonajes: async () =>{
 				await fetch ("https://www.swapi.tech/api/people/")
+				await (res )
 			},
 			
 			getVehiculos: async () =>{
