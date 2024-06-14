@@ -13,3 +13,4 @@ export const Home = () => (
 		</a>
 	</div>
 );
+// carrusel de imagenes tiene un estado y unas acciones que va a ser get que trae los personajes
